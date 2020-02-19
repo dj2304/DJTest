@@ -12,7 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int[] arr={3,1,7,2,6,7,4,5};
 
-        changet(arr, 0);
+        //这是一个测试修改
+//        changet(arr, 0);
     }
 
      public void changet(int[] arr, int left, int r){
